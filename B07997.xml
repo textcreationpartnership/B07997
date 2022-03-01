@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The order of orthographie: or, Sixty sixe rules shortly directing to the true writing, speaking, and pronouncing the English tongue. Necessary for all sorts, for want wherof strangers blame our English tongue of difficultie: many of our owne nation speake it corruptly, many write it falsely, and many are discouraged from learning to write it; and others that can write are ashamed to write to their best friends..</title>
+            <author>Prat, Jos. (Joseph).</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07997</idno>
+            <idno type="OCLC"> 82475145</idno>
+            <idno type="STC">STC 20186.7</idno>
+            <idno type="STC">ESTC S94773</idno>
+            <idno type="EEBO-CITATION">82475145</idno>
+            <idno type="OCLC">ocm 82475145</idno>
+            <idno type="VID">185157</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185157)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2255:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The order of orthographie: or, Sixty sixe rules shortly directing to the true writing, speaking, and pronouncing the English tongue. Necessary for all sorts, for want wherof strangers blame our English tongue of difficultie: many of our owne nation speake it corruptly, many write it falsely, and many are discouraged from learning to write it; and others that can write are ashamed to write to their best friends..</title>
+                  <author>Prat, Jos. (Joseph).</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Augustine Mathews for William Lee, and are to be sold at his shop in Fleete street, at the signe of the Golden Buck, neare Seriants [sic] Inne,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1622..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed "Ios. Prat."</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Headpieces, initials.</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English language --  Orthography and spelling --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:185157:1"/>
+            <pb facs="tcp:185157:1" rendition="simple:additions"/>
+            <p>THE ORDER OF ORTHOGRAPHIE:</p>
+            <p>OR, Sixty ſixe Rules ſhortly dire<g ref="char:EOLhyphen"/>cting to the true writing, ſpeaking, and pronouncing the En<g ref="char:EOLhyphen"/>gliſh <hi>Tongue.</hi>
+            </p>
+            <p>Neceſſary for all ſorts, for want whereof Strangers blame our <hi>Engliſh Tongue</hi> of difficultie: many of our owne Nation ſpeake it corruptly, many write it falſely, and many are diſcouraged from learning to write it; and others that can write are aſhamed to write to their beſt friends.</p>
+            <p>
+               <hi>LONDON,</hi> Imprinted by <hi>Augustine Mathews</hi> for <hi>Wil<g ref="char:EOLhyphen"/>liam Lee,</hi> and are to be ſold at his ſhop in Fleete ſtreet, at the ſigne of the Golden Buck, neare Seriants Inne. 1622.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:185157:2"/>
+            <pb facs="tcp:185157:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>REader,</salute>
+            </opener>
+            <p>the ſundry com<g ref="char:EOLhyphen"/>plaints that I haue heard of many, and the great offers, that they would giue much, ſo they could write Engliſh truly, and reade it diſtinctly and per<g ref="char:EOLhyphen"/>fectly; hath made me venter into the Preſſe, and to publiſh for thy benefit this litle Booke; which though it contain much in effect, yet I haue contriued into this ſmall Octauo, that
+<pb facs="tcp:185157:3"/>thereby I might become a ſo<g ref="char:EOLhyphen"/>ciable companion for euery mans pocket; and therefore I haue ſhut out all verſes in <hi>lau<g ref="char:EOLhyphen"/>dem Authoris,</hi> and tedious De<g ref="char:EOLhyphen"/>dicatories, which now a daies will coſt the buyer as much as the Booke it ſelfe. And if I find my indeuour accepted, I ſhall endeuour to continue worthy thy friendſhip.</p>
+            <closer>
+               <signed>Thine as thou vſeſt me, <hi>IOS. PRAT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="manual_of_orthography">
+            <pb facs="tcp:185157:3"/>
+            <head>THE ORDER OF ORTHOGRAPHY.</head>
+            <p n="1">1 <seg rend="decorInit">T</seg>He firſt and leaſt thing in writing, is a Poynt or tit<g ref="char:EOLhyphen"/>tle, which is marked thus (.) without length or breadth.</p>
+            <p n="2">2 By artificiall extention or draw<g ref="char:EOLhyphen"/>ing forth of which, inlarging the forme is made a Letter, as <hi>a, b, c, d, e, f, g, h, i, k.</hi>
+            </p>
+            <p n="3">3 The ordinary number of Letters is foure and twenty.</p>
+            <p n="4">4 The Letters are two ſorts, the one called Vowels, and the other Conſo<g ref="char:EOLhyphen"/>nants.</p>
+            <p n="5">5 Theſe fiue, <hi>a, e, i, o, u,</hi> are Vo<g ref="char:EOLhyphen"/>wels, all the reſt are Conſonants.</p>
+            <p n="6">6 A Vowell maketh a full and per<g ref="char:EOLhyphen"/>fect ſound of it ſelfe. A Conſonant, or
+<pb facs="tcp:185157:4"/>diuers Conſonants without a Vowell, ſpell not any thing.</p>
+            <p n="7">7 A Syllable is a perfect ſound made of ſo many letters as are ſpeld or ſounded together in a word, as in this word <hi>la-men-ta-ti-on</hi> you ſee are fiue ſyllables.</p>
+            <p n="8">8 Any of the fiue vowels will make a ſyllable alone; as in theſe words, <hi>a<g ref="char:EOLhyphen"/>mongst e-vils I-dolatrie o-verthroweth v-nitie.</hi>
+            </p>
+            <p n="9">9 When two vowels come together in one ſyllable, it maketh a ſound cal<g ref="char:EOLhyphen"/>led a dipthong or double ſound, which muſt not be deuided, but ſounded toge<g ref="char:EOLhyphen"/>ther; and they are in number eight, which are theſe, <hi>ai, ei, oi, au, eu, ou, oo, ee,</hi> as in theſe words: <hi>Faith, heighth, moiſt, taught, neuter, ought, foote, feete.</hi>
+            </p>
+            <p n="10">10 There are two Latine dipthongs vſed in Engliſh writing, <hi>ae</hi> and <hi>oe,</hi> as <hi>Aeneas, Oedipus,</hi> which you muſt ſound as if they were written with <hi>E</hi> only, as <hi>Eneas, Edipus;</hi> not <hi>Aneas, Odipus.</hi>
+            </p>
+            <p n="11">11 <hi>Aa</hi> and <hi>ao</hi> make no dipthongs, and therefore muſt be deuided when they are found in a word, as <hi>Ba-al, Na-omy.</hi>
+            </p>
+            <p n="12">12 <hi>J</hi> or <hi>V</hi> comming before another vowell in the beginning of a word or
+<pb facs="tcp:185157:4"/>ſyllable make no dipthongs, but chan<g ref="char:EOLhyphen"/>ging their ſound are turned into Conſo<g ref="char:EOLhyphen"/>nants, as in theſe and the like, <hi>James, Ieremy, Iupiter,</hi> vaine, verely, viper, vo<g ref="char:EOLhyphen"/>cation.</p>
+            <p n="13">13 <hi>Ie</hi> hath the ſound of <hi>ee</hi> dipthong in theſe and the like words, <hi>chiefe, Shriefe, briefe, ſiege, ſhield, field, atchieue,</hi> &amp;c.</p>
+            <p n="14">14 <hi>
+                  <g ref="char:V">Ʋ</g>i</hi> in theſe and the like words, is no dipthong, but is pronounced like <hi>u</hi> long, as <hi>ſuite, fruite, bruite, bruiſe,</hi> ſound them as <hi>lute, ſute, confute.</hi>
+            </p>
+            <p n="13">13 <hi>Y</hi> is a Greeke vowell, and natu<g ref="char:EOLhyphen"/>rally ought to be vſed but in words bor<g ref="char:EOLhyphen"/>rowed of the Greekes, as <hi>hypocrite, myſti<g ref="char:EOLhyphen"/>call:</hi> yet it is vſed for <hi>i</hi> vowell, eſpeci<g ref="char:EOLhyphen"/>ally if the ſyllable following begin with a vowell, as <hi>ſaying, flying;</hi> alſo in words ending in <hi>ie,</hi> as <hi>denie,</hi> or <hi>deny,</hi> leauing out <hi>e,</hi> and ordinarily in words of one ſylla<g ref="char:EOLhyphen"/>ble, as <hi>by, thy, why;</hi> not <hi>bie, thie, whie.</hi>
+            </p>
+            <p n="16">16 When <hi>y</hi> begins a word, it it made a Conſonant, as <hi>yet, yet, your,</hi> which differ in ſound from <hi>ies, iet, iour.</hi>
+            </p>
+            <p n="17">17 Obſerue that <hi>th</hi> hath two manner of ſounds, as you may obſerue in theſe words <hi>the, theefe, thy, thigh, thine, thinne,</hi> and many other.</p>
+            <p n="18">
+               <pb facs="tcp:185157:5"/>
+18 <hi>Ca, co, cu,</hi> ſound alwaies like <hi>ka, ko, ku, bu;</hi> but <hi>ce, ci,</hi> like <hi>ſe, ſi.</hi>
+            </p>
+            <p n="19">19 <hi>Ph</hi> is ſounded alwaies like <hi>f,</hi> as <hi>Phiſicke, Prophet, Philoſophie, Phillip.</hi>
+            </p>
+            <p n="20">20 <hi>Ga, go, gu,</hi> keepe alwaies one and the ſame ſound; but <hi>ge</hi> and <hi>gi</hi> change, as <hi>agent, get, giddie, Giles,</hi> but there is no certaine rule found to know when to change the ſound.</p>
+            <p n="21">21 This ſound <hi>ſi,</hi> may be expreſſed fiue diuers waies, as <hi>ſi, ci, ſci, xi,</hi> and <hi>ti.</hi>
+            </p>
+            <p n="22">22 <hi>ti</hi> before a vowell, ordinarily ſpels <hi>ſi,</hi> as in theſe words <hi>affection, acti<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p n="23">23 If <hi>ſ</hi> come before it, it keepes the ordinary ſound, as <hi>queſtion, digeſti<g ref="char:EOLhyphen"/>on.</hi>
+            </p>
+            <p n="24">24 Some words by changing their manner of writing, change alſo their ſignification and yet not their ſound, as.
+<list>
+                  <item>A <hi>Prophet,</hi> much <hi>profit.</hi>
+                  </item>
+                  <item>The <hi>Sunne,</hi> a <hi>Sonne.</hi>
+                  </item>
+                  <item>He <hi>heard,</hi> it is <hi>hard.</hi>
+                  </item>
+                  <item>The <hi>Reigne</hi> of a King.</item>
+                  <item>The <hi>rayne</hi> that falleth.</item>
+                  <item>The <hi>reine</hi> of a bridle.</item>
+                  <item>He <hi>ought</hi> to doe it <hi>oft.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="25">
+               <pb facs="tcp:185157:5"/>
+25 Some words are written with one and the ſame letters, and yet are dif<g ref="char:EOLhyphen"/>ferent in ſignification, as
+<list>
+                  <item>The <hi>hart</hi> of a Man.</item>
+                  <item>A beaſt called an <hi>Hart.</hi>
+                  </item>
+                  <item>A <hi>Foule</hi> in the ayre.</item>
+                  <item>Foule <hi>weather.</hi>
+                  </item>
+                  <item>Thou <hi>art</hi> skilfull in <hi>Art.</hi>
+                  </item>
+                  <item>He <hi>may</hi> liue till <hi>May.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="26">26 Sometime the ſame writing is di<g ref="char:EOLhyphen"/>uerſly ſounded, as to <hi>vſe,</hi> an <hi>vſe,</hi> an <hi>a<g ref="char:EOLhyphen"/>buſe,</hi> to <hi>abuſe:</hi> where <hi>ſ</hi> is ſounded alſo like <hi>z, amaſed</hi> which differeth from <hi>cha<g ref="char:EOLhyphen"/>ſed.</hi>
+            </p>
+            <p n="27">27 <hi>Ow</hi> is likewiſe diuerſly ſounded, as <hi>know how</hi> a <hi>bow</hi> to <hi>bow.</hi>
+            </p>
+            <p n="28">28 Some words are written diuerſly, and yet change not their ſound, nor ſig<g ref="char:EOLhyphen"/>nification, as <hi>Broune,</hi> or <hi>Browne.</hi>
+            </p>
+            <p n="29">29 Some change both the writing and ſound, and yet not the ſence, as a <hi>bottell,</hi> or <hi>botle.</hi>
+            </p>
+            <p n="30">30 Words ending in <hi>or,</hi> are indiffe<g ref="char:EOLhyphen"/>rently written with <hi>our;</hi> as <hi>honor, honour; ſauor, fauour;</hi> except <hi>dor, for, nor, abhor,</hi> &amp;c.</p>
+            <p n="31">31 Marke for your next rule what Conſonants follow one another in the
+<pb facs="tcp:185157:6"/>beginning of a word, as after, <hi>b</hi> will follow only <hi>l</hi> or <hi>r,</hi> as <hi>bla, bre;</hi> for <hi>bſa,</hi> or the like, will ſpell nothing.</p>
+            <p n="32">32 The Conſonants that will follow one another in the beginning of a word are theſe, <hi>bl, br, cl, cr, ch, dr, dw, fl, fr, gh, gl, gr, gn, kn, pl, pr, ph, pſ, ſc, ſcr, ſh, ſhr, sk, ſt, ſm, ſn, ſp, ſpl, ſpr, ſq, ſt, ſtr, ſw, tr, th, thr, tw, wh, wr.</hi>
+            </p>
+            <p>Here marke that with thoſe letters that you cannot begin a word, you muſt not begin a ſyllable.</p>
+            <p n="33">33 Marke next thoſe words and ſylla<g ref="char:EOLhyphen"/>bles that are ſhortened in Engliſh wri<g ref="char:EOLhyphen"/>ting by a ſtroake ouer the head, for <hi>m</hi> or <hi>n,</hi> as <hi>a<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> for <hi>am</hi> or <hi>an, co<g ref="char:cmbAbbrStroke">̄</g>
+               </hi> for <hi>com</hi> or <hi>con;</hi> and ſometimes a word is ſhortened by lea<g ref="char:EOLhyphen"/>uing out <hi>e</hi> in the laſt ſyllable, as <hi>hang'd</hi> for <hi>hanged:</hi> other abreuiations alſo there are, as y<hi rend="sup">t</hi> for <hi>that,</hi> y<hi rend="sup">u</hi> for <hi>thou,</hi> y<hi rend="sup">e</hi> for <hi>the,</hi> w<hi rend="sup">t</hi> for <hi>with,</hi> w<hi rend="sup">c</hi> for <hi>which,</hi> &amp;c. for <hi>and ſo forth.</hi>
+            </p>
+            <p n="34">34 The vſe of this letter <hi>e</hi> when it is not ſounded in the end of a word is di<g ref="char:EOLhyphen"/>uers.</p>
+            <p n="35">35 Firſt it is vſed rather for beau<g ref="char:EOLhyphen"/>tie then any neceſsitie after <hi>i</hi> in the end of a word, as <hi>bie,</hi> nor <hi>bi;</hi> but not after <hi>y</hi> as <hi>by.</hi>
+            </p>
+            <p n="36">
+               <pb facs="tcp:185157:6"/>
+36 Secondly, it is vſed to draw the ſyllable long, as may be ſeene by the dif<g ref="char:EOLhyphen"/>ference betweene theſe words <hi>man</hi> and <hi>mane, mill</hi> and <hi>mile, hid</hi> and <hi>hide.</hi>
+            </p>
+            <p n="37">37 Thirdly, it both draweth the ſyl<g ref="char:EOLhyphen"/>lable long, and changeth the ſound of theſe letters <hi>c, u, g,</hi> as <hi>pac</hi> is ſounded like <hi>pak,</hi> but <hi>pace</hi> like <hi>paſe;</hi> ſo <hi>rag, rage, hau, haue,</hi> and if <hi>d</hi> be put before <hi>g,</hi> the ſylla<g ref="char:EOLhyphen"/>ble is pronounced ſhort as <hi>ledge, lodge,</hi> &amp;c.</p>
+            <p n="37">37 For more diſtinct pronunciation marke that which the Gramarians call accent, which is the lifting vp of the voice higher in one ſyllable then in an<g ref="char:EOLhyphen"/>other, as <hi>to offer incenſe,</hi> to <hi>incenſe</hi> or pro<g ref="char:EOLhyphen"/>uoke.</p>
+            <p n="38">38 Thus much for letters and ſylla<g ref="char:EOLhyphen"/>bles, and their pronunciation: now for the deuiding of long words of many ſyl<g ref="char:EOLhyphen"/>lebles, the generall rule is ordinarily to marke how many vowels a word hath, ſo many ſyllables it hath, as <hi>re-ge-ne-ra-ti-on.</hi>
+            </p>
+            <p n="39">39 Firſt, except ſuch words where <hi>e</hi> is little or not at all pronounced in the ende of the word, as <hi>madde, made, hide,</hi> &amp;c.</p>
+            <p n="40">40 Secondly dipthongs, as <hi>vaine, may, our.</hi>
+            </p>
+            <p n="41">41 Thirdly, words ending in <hi>es,</hi> as <hi>Iames, hones, names, hides.</hi>
+            </p>
+            <p n="42">
+               <pb facs="tcp:185157:7"/>
+42 Laſtly, after <hi>qu</hi> and <hi>g,</hi> as <hi>quicke languag<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="43">43 Marke next for your diuiſion of words, if you haue two vowels come to<g ref="char:EOLhyphen"/>gether, and both fully pronounced, you muſt put the firſt to the former ſyllable, and the next to the latter, as <hi>auoy-ance, tri-umph, mutu-all.</hi>
+            </p>
+            <p n="44">44 But heere take heede of deuiding the vowels <hi>ea,</hi> as ſome corruptly doe, pronouncing <hi>Whe-at, me-at, be-ans, pe-aſe,</hi> for <hi>Wheat, mea<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, beans, peaſe.</hi>
+            </p>
+            <p n="45">45 When the middle Conſonant is doubled, deuide them as <hi>com-mon, com-mand, let-ter, ac-cord.</hi>
+            </p>
+            <p n="46">46 Except they be needleſly doubled in words of the plurall number, as <hi>plumms</hi> for <hi>plums, hills</hi> for <hi>hils.</hi>
+            </p>
+            <p n="47">47 Thus much for deuiſion of words and ſyllables: for your more diſtinct writing and reading, obſerue thoſe markes called ſtayes or ſtops in rea<g ref="char:EOLhyphen"/>ding, which are three.</p>
+            <p n="48">48 The firſt betokeneth a ſmall ſtay and is called a <hi>Comma,</hi> and marked thus (,)</p>
+            <p n="49">49 The ſecond ſheweth a longer ſtay, and is called a <hi>Colon,</hi> &amp; is thus marked (:)</p>
+            <p n="50">
+               <pb facs="tcp:185157:7"/>
+The third is marked thus (.) with one point, and ſheweth a full and perfect ſtop or ſtay, as if the ſen<g ref="char:EOLhyphen"/>tence were ended, and it is named a <hi>Period.</hi>
+            </p>
+            <p n="51">51 When a queſtion is asked in writing, it is noted with this marke (?) called an <hi>Interogation.</hi>
+            </p>
+            <p n="52">52 When ſome words may be left out of a ſentence, and yet the ſence per<g ref="char:EOLhyphen"/>fect, it is marked thus ( ) and called a <hi>Parentheſis,</hi> as <hi>ſuffer me</hi> (I pray you) <hi>a little whil<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+            </p>
+            <p n="53">53 When a word endeth, and the next beginneth with a vowell, the en<g ref="char:EOLhyphen"/>ding vowell is ſometime left out, and both the words ioyned together, as <hi>thintent</hi> for <hi>the intent,</hi> which exactly ſhould be written with a marke cal<g ref="char:EOLhyphen"/>led <hi>Apoſtrophu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> thus, <hi>th'intent.</hi>
+            </p>
+            <p n="54">54 For your more commendable writing, begin alwaies the Sentence with a great letter; and likewiſe the names of Perſons, Places, and Times, as <hi>Robert,</hi> London, April. Likewiſe, when you put a letter for a word, as B. for Biſhop, L. for Lord; and
+<pb facs="tcp:185157:8"/>ordinarily when you put a letter for a number, as V. for <hi>fiue,</hi> X. for <hi>tenne</hi> L. for <hi>fiftie,</hi> C. for an <hi>hundred,</hi> D. for <hi>fiue hundred,</hi> M. for a <hi>Thouſand.</hi>
+            </p>
+            <p n="55">55 Next take heed of the barbarous ſpeech of the common people, as of wri<g ref="char:EOLhyphen"/>ting or pronouncing <hi>yarbs</hi> for <hi>herbs, ſtompe</hi> for <hi>ſtampe, Dater</hi> for <hi>Daughter, twonty</hi> for <hi>twenty, Feale</hi> and <hi>Fineger</hi> for <hi>
+                  <g ref="char:V">Ʋ</g>eale</hi> and <hi>Vi<g ref="char:EOLhyphen"/>neger,</hi> and ſuch like.</p>
+            <p n="56">56 Marke further that ſome letters muſt be written, but not pronounced in ſome words,</p>
+            <p n="57">57 As <hi>C.</hi> ordinarily when it comes before <hi>k,</hi> is not pronounced, as <hi>backe, packe, Rocke,</hi> where it only makes the ſyl<g ref="char:EOLhyphen"/>lable ſhort.</p>
+            <p n="58">58 <hi>G</hi> is not pronounced in <hi>ſigne, reſigne, flegme, ſoueraigne.</hi>
+            </p>
+            <p n="59">59 <hi>H</hi> in <hi>Ghoſt, Iohn; p</hi> in <hi>receipt,</hi> nor <hi>ſ</hi> in <hi>Iſle,</hi> and many ſuch like which you muſt marke by reading with obſeruati<g ref="char:EOLhyphen"/>on.</p>
+            <p n="60">60 Note that all words that may haue this Article <hi>a</hi> or <hi>the</hi> put before them, are called <hi>Nounes,</hi> or names of things, as a <hi>Man</hi> the <hi>houſe.</hi>
+            </p>
+            <p n="61">
+               <pb facs="tcp:185157:8"/>
+61 And whereas I ſpake before of words of the plurall number, note that in Nounes there be two numbers, the ſingle or ſinguler number, which ſpea<g ref="char:EOLhyphen"/>keth but of one, as a <hi>Man,</hi> the <hi>Houſe,</hi> a <hi>Tree,</hi> and ſuch like.</p>
+            <p>And the plurall which ſpeaketh of more then one, as <hi>houſes, men, trees.</hi>
+            </p>
+            <p n="62">62 The plurall number is made by putting <hi>s</hi> to the ſinguler, as one <hi>pot,</hi> ma<g ref="char:EOLhyphen"/>ny <hi>pots;</hi> a <hi>Iewell,</hi> two <hi>Iewels.</hi>
+            </p>
+            <p n="63">63 Except words ending in <hi>fe</hi> which make the plurall by changing into <hi>ves,</hi> as <hi>wife, wiues; knife, kniues; Calfe, Calues.</hi>
+            </p>
+            <p n="64">64 Some plurals vary or change from all rule, as a <hi>man,</hi> two <hi>men,</hi> a <hi>brother, brethren,</hi> ſo <hi>Oxen, teeth, feete, kine, lice, mice.</hi>
+            </p>
+            <p>And ſome that make the ſinguler and the plurall all one, as a <hi>ſheepe,</hi> two <hi>ſheepe,</hi> one <hi>mile,</hi> twentie <hi>mile.</hi>
+            </p>
+            <p n="65">65 The ſinguler and the plurall haue ordinarily ſyllables alike, except words ending in <hi>ce, ch, g, dg, ſ,</hi> or <hi>ſh,</hi> as <hi>gra<g ref="char:EOLhyphen"/>ces, places, Churches, cages, hedges, roſes, fiſhes.</hi>
+            </p>
+            <p n="66">
+               <pb facs="tcp:185157:9" rendition="simple:additions"/>
+66 Note laſt of all when the Arti<g ref="char:EOLhyphen"/>cle <hi>a</hi> or <hi>my</hi> come before a word begin<g ref="char:EOLhyphen"/>ning with a vowell, you muſt change <hi>a</hi> into <hi>an,</hi> and <hi>my</hi> into <hi>mine;</hi> as <hi>an</hi> Oxe, <hi>mine</hi> or <hi>thine</hi> Oxe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
